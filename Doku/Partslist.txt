@@ -1,0 +1,36 @@
+Partlist
+
+Exported from TrimControl.sch at 20.08.2019 11:51:36
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device            Package              Library     Sheet
+
+C2       0,33µF/35V     CPOL-EUA/3216-18R A/3216-18R           rcl         1
+C3       1,0µF/50V      CPOL-EUC/6032-28R C/6032-28R           rcl         1
+C4       100nF          C-EUC0805         C0805                rcl         1
+C5       1,0µF/50V      CPOL-EUC/6032-28R C/6032-28R           rcl         1
+C6       0,22µF/35V     CPOL-EUA/3216-18R A/3216-18R           rcl         1
+C7       0,22µF/35V     CPOL-EUA/3216-18R A/3216-18R           rcl         1
+C8       1,0µF/50V      CPOL-EUC/6032-28R C/6032-28R           rcl         1
+IC2      L78L05CU/BU    L78LXXCU/BU       SOT89                v-reg       1
+L1       1,0µH          L-EUL1812         L1812                rcl         1
+OK1      PC847          PC847             DIL16                optocoupler 1
+OK2      PC847          PC847             DIL16                optocoupler 1
+R3       680/500mW      R-EU_R1210        R1210                rcl         1
+R4       1,5K           R-EU_R0805        R0805                rcl         1
+R5       1,5K           R-EU_R0805        R0805                rcl         1
+R6       680/500mW      R-EU_R1210        R1210                rcl         1
+R7       1,5K           R-EU_R0805        R0805                rcl         1
+R9       1,5K           R-EU_R0805        R0805                rcl         1
+R10      680/500mW      R-EU_R1210        R1210                rcl         1
+R11      1,5K           R-EU_R0805        R0805                rcl         1
+R12      1,5K           R-EU_R0805        R0805                rcl         1
+R13      680/500mW      R-EU_R1210        R1210                rcl         1
+R14      1,5K           R-EU_R0805        R0805                rcl         1
+R15      1,5K           R-EU_R0805        R0805                rcl         1
+U1       MC33886PVW     MC33886PVW        SOIC127P1420X340-21N MC33886PVW  1
+U2       MC33886PVW     MC33886PVW        SOIC127P1420X340-21N MC33886PVW  1
+X1                      F15HP             F15HP                con-subd    1
